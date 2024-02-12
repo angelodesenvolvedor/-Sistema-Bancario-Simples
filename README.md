@@ -4,3 +4,9 @@
 
 # 🔥 Introdução
 * O objetivo deste projeto é fornecer uma solução básica para operações bancárias, como verificação de saldo, depósito e saque. As opções estão claramente definidas, e o programa fornece feedback informativo ao usuário.
+
+# 📦 Tecnologias usadas
+Este projeto foi desenvolvido utilizando as seguintes tecnologias:
+
+Node.js - Ambiente de execução JavaScript.
+npm - Gerenciador de pacotes do Node.js.
